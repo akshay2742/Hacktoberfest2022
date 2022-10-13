@@ -7,8 +7,8 @@ int main()
     scanf("%d",&b1);
     int a[a1];
     int b[b1];
-    m=a1;
-    n=b1;
+    scanf("%d",&m);
+    scanf("%d",&n);
     int i,j=0,k;
     for(i=0;i<a1;i++)
     {
