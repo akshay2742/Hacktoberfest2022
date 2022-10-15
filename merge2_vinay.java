@@ -36,5 +36,3 @@ public class GFG {
 		Arrays.sort(arr3);
 	}
 }
-
-
