@@ -3,7 +3,7 @@
 // Importing necessary classes
 import java.util.Arrays;
 // Main class
-public class GFG {
+public class binary {
  
     // Main driver method
     public static void main(String[] args)
