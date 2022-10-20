@@ -1,4 +1,3 @@
-// C++ program to merge two sorted arrays/
 #include<bits/stdc++.h>
 using namespace std;
 
